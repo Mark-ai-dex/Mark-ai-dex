@@ -1,7 +1,10 @@
 # 💫 About Me:
 ## 👋 About Me<br><br>I am an Electronics and Instrumentation student at the University of Nairobi with a strong interest in embedded systems and IoT development.<br><br>I enjoy working with microcontrollers like ESP32, building real-world systems such as sensor-based automation, flow monitoring systems, and smart control devices.<br><br>My focus is on combining hardware and software to design efficient, practical solutions.
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-kiamba)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-kiamba-303860387)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiambamark40@gmail.com)
 
 # 💻 Tech Stack:
