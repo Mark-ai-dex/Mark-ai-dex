@@ -47,9 +47,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mark-ai-dex&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mark-ai-dex&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-ai-dex&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mark-ai-dex&show_icons=true&theme=dracula)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mark-ai-dex&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-ai-dex&layout=compact&theme=dracula)
 ---
 [![](https://visitcount.itsvg.in/api?id=Mark-ai-dex&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
