@@ -1,13 +1,13 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I am an Electronics and Instrumentation student at the University of Nairobi with a strong interest in embedded systems and IoT development.<br><br>I enjoy working with microcontrollers like ESP32, building real-world systems such as sensor-based automation, flow monitoring systems, and smart control devices.<br><br>My focus is on combining hardware and software to design efficient, practical solutions.
-## 🌐 Socials:
-## 🌐 Connect With Me
+#  About Me:
+##  About Me<br><br>I am an Electronics and Instrumentation student at the University of Nairobi with a strong interest in embedded systems and IoT development.<br><br>I enjoy working with microcontrollers like ESP32, building real-world systems such as sensor-based automation, flow monitoring systems, and smart control devices.<br><br>My focus is on combining hardware and software to design efficient, practical solutions.
+##  Socials:
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-kiamba-303860387)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiambamark40@gmail.com)
-# 💻 Tech Stack
+#  Tech Stack
 
-## 🧠 Programming Languages
+##  Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Web & Backend
+##  Web & Backend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -25,14 +25,14 @@
 
 ---
 
-## ☁️ Cloud & Deployment
+##  Cloud & Deployment
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 📊 Data Science & AI
+##  Data Science & AI
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
@@ -42,12 +42,12 @@
 
 ---
 
-## 🛠 Tools & Version Control
+##  Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-# 📊 GitHub Stats
+#  GitHub Stats:
+#  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mark-ai-dex&show_icons=true&theme=dracula)
 
